@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 2,
+	"type": "single-sprite-square-textured",
+	"texture": "fabricskyboxes:sky/skybox_night.png",
+	"blend": {"type" : "alpha"},
+	"properties": {
+		"priority": 1,
+		"fade": {
+			"startFadeIn": 11500,
+			"endFadeIn": 12350,
+			"startFadeOut": 23500,
+			"endFadeOut": 0,
+			"alwaysOn": false
+			},
+		"rotation": {
+			"axis": [0.0, -0.2, 0.0]
+		},
+		"transitionInDuration": 10,
+		"transitionOutDuration": 15,
+		"changeFog": false,
+		"fogColors": {"red": 0.84, "green": 0.91, "blue": 0.97, "alpha": 1.0},
+		"sunSkyTint": false,
+		"inThickFog": true,
+		"minAlpha": 0.0,
+		"maxAlpha": 1.0
+	},
+  "conditions": {
+    "worlds": [
+      "minecraft:overworld"
+    ]
+  },
+	"decorations": {
+		"blend": {"type" : "decorations"},
+		"sun": "minecraft:textures/environment/sun.png",
+		"moon": "minecraft:textures/environment/moon_phases.png",
+		"showSun": true,
+		"showMoon": true,
+		"showStars": false
+	}
+}
