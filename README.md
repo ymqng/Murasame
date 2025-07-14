@@ -1,6 +1,6 @@
 # Murasame|丛雨最可爱 材质包
 
-<img src="https://img.lty.moe/upload/202507/6875102cb030a0.36203628.png" alt="image" high="350">
+<img src="https://img.lty.moe/upload/202507/6875102cb030a0.36203628.png" alt="image" height="400">
 
 ## 联系作者
  **通过B站联系作者:** 
@@ -9,7 +9,7 @@
  **添加材质包交流群:** 
  [材质包交流群](https://qm.qq.com/q/hMgA4gFBba)
  
-<img src="https://img.lty.moe/upload/202507/68750f9e303127.28357836.jpg" alt="image" high="300">
+<img src="https://img.lty.moe/upload/202507/68750f9e303127.28357836.jpg" alt="image" height="600">
 
 ## 材质包简介
 材质包目前是测试版，但即使是测试版，把它当做一个天空材质包也是绰绰有余，只是我不仅仅局限于天空材质，所以才说是测试版。
